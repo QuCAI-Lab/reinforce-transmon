@@ -1,0 +1,11 @@
+name: transmon-cpu
+channels:
+  - conda-forge
+dependencies:
+  - python==3.10
+  - pip:
+      - numpy==1.26.0
+      - matplotlib==3.8.0
+      - imageio==2.31.5
+      - scqubits==3.2.0
+      - tensorflow-cpu==2.14.0

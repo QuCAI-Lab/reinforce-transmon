@@ -1,0 +1,13 @@
+# IDE
+.vscode
+
+# Logs
+**/models/
+
+# Images
+**/gifs/anharmonicity/
+**/gifs/coherence/
+
+# Byte-compiled
+**/__pycache__
+**/.main.py.swp
